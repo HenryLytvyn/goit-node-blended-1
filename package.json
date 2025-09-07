@@ -4,6 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "remove-all": "node src/scripts/removeAllProducts.js",
+    "modify-products": "node src/scripts/modifyProducts.js",
     "get-unique-categories": "node src/scripts/getUniqueCategories.js",
     "get-total-price": "node src/scripts/getTotalPrice.js",
     "generate": "node src/scripts/generateProducts.js",
