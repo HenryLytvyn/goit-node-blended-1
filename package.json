@@ -4,6 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "group-products": "node src/scripts/groupProductsByCategories.js",
     "remove-all": "node src/scripts/removeAllProducts.js",
     "modify-products": "node src/scripts/modifyProducts.js",
     "get-unique-categories": "node src/scripts/getUniqueCategories.js",

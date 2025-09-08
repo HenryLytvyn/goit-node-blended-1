@@ -12,4 +12,4 @@ async function generateProduct(quantity) {
   writeProduct(arrData);
 }
 
-generateProduct(2);
+generateProduct(20);
