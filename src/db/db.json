@@ -1,242 +1,122 @@
 [
   {
-    "name": "Frozen Cotton Sausages",
-    "price": "529.50",
-    "category": "Clothing",
-    "description": "Ergonomic Chicken made with Concrete for all-day burly support"
-  },
-  {
-    "name": "Fantastic Metal Shirt",
-    "price": "274.50",
-    "category": "Health",
-    "description": "Discover the warped new Shirt with an exciting mix of Aluminum ingredients"
-  },
-  {
-    "name": "Electronic Plastic Pants",
-    "price": "959.65",
-    "category": "Kids",
-    "description": "Featuring Mercury-enhanced technology, our Keyboard offers unparalleled reckless performance"
-  },
-  {
-    "name": "Soft Cotton Sausages",
-    "price": "360.56",
-    "category": "Tools",
-    "description": "Innovative Soap featuring candid technology and Aluminum construction"
-  },
-  {
-    "name": "Frozen Ceramic Salad",
-    "price": "149.30",
-    "category": "Home",
-    "description": "Experience the gold brilliance of our Keyboard, perfect for wicked environments"
-  },
-  {
-    "name": "Modern Silk Cheese",
-    "price": "900.79",
-    "category": "Movies",
-    "description": "The Alvis Salad is the latest in a series of grizzled products from Davis - O'Connell"
-  },
-  {
-    "name": "Unbranded Wooden Bacon",
-    "price": "421.45",
+    "name": "Fantastic Cotton Tuna",
+    "price": "730.04",
     "category": "Beauty",
-    "description": "Introducing the Djibouti-inspired Pants, blending bruised style with local craftsmanship"
+    "description": "Savor the tender essence in our Fish, designed for vengeful culinary adventures"
   },
   {
-    "name": "Intelligent Concrete Gloves",
-    "price": "961.05",
-    "category": "Books",
-    "description": "Innovative Chips featuring infinite technology and Silk construction"
+    "name": "Recycled Concrete Mouse",
+    "price": "384.91",
+    "category": "Computers",
+    "description": "The tan Chips combines France aesthetics with Sodium-based durability"
   },
   {
-    "name": "Luxurious Rubber Pizza",
-    "price": "965.39",
-    "category": "Sports",
-    "description": "Our koala-friendly Shoes ensures beloved comfort for your pets"
-  },
-  {
-    "name": "Frozen Bamboo Fish",
-    "price": "579.05",
-    "category": "Home",
-    "description": "Discover the back new Cheese with an exciting mix of Bronze ingredients"
-  },
-  {
-    "name": "Generic Bamboo Keyboard",
-    "price": "552.99",
-    "category": "Kids",
-    "description": "Luxurious Hat designed with Rubber for juicy performance"
-  },
-  {
-    "name": "Handcrafted Bronze Gloves",
-    "price": "213.59",
-    "category": "Home",
-    "description": "Towne - Crist's most advanced Pants technology increases staid capabilities"
-  },
-  {
-    "name": "Handmade Aluminum Bacon",
-    "price": "132.95",
+    "name": "Electronic Wooden Pants",
+    "price": "176.39",
     "category": "Games",
-    "description": "The lime Towels combines Western Sahara aesthetics with Roentgenium-based durability"
+    "description": "New Bike model with 87 GB RAM, 808 GB storage, and definitive features"
   },
   {
-    "name": "Soft Concrete Ball",
-    "price": "548.58",
-    "category": "Games",
-    "description": "Savor the smoky essence in our Gloves, designed for corny culinary adventures"
+    "name": "Bespoke Rubber Chips",
+    "price": "6.30",
+    "category": "Baby",
+    "description": "Savor the tangy essence in our Shoes, designed for ignorant culinary adventures"
   },
   {
-    "name": "Electronic Rubber Soap",
-    "price": "628.39",
-    "category": "Garden",
-    "description": "New salmon Towels with ergonomic design for violent comfort"
-  },
-  {
-    "name": "Luxurious Plastic Keyboard",
-    "price": "348.29",
-    "category": "Tools",
-    "description": "Pfannerstill, Reichel and Zieme's most advanced Gloves technology increases icy capabilities"
-  },
-  {
-    "name": "Intelligent Bamboo Chicken",
-    "price": "909.29",
-    "category": "Kids",
-    "description": "Innovative Tuna featuring average technology and Rubber construction"
-  },
-  {
-    "name": "Intelligent Marble Chicken",
-    "price": "678.35",
-    "category": "Automotive",
-    "description": "The Joannie Chips is the latest in a series of late products from Stanton - Reichert"
-  },
-  {
-    "name": "Generic Steel Keyboard",
-    "price": "235.65",
-    "category": "Sports",
-    "description": "Electronic Tuna designed with Gold for aching performance"
-  },
-  {
-    "name": "Modern Wooden Computer",
-    "price": "884.79",
-    "category": "Books",
-    "description": "Hagenes, Steuber and Larson's most advanced Bacon technology increases unpleasant capabilities"
-  },
-  {
-    "name": "Frozen Aluminum Ball",
-    "price": "345.09",
-    "category": "Books",
-    "description": "Our crocodile-friendly Hat ensures essential comfort for your pets"
+    "name": "Rustic Steel Chicken",
+    "price": "5.75",
+    "category": "Beauty",
+    "description": "New yellow Chair with ergonomic design for infatuated comfort"
   },
   {
     "name": "Generic Aluminum Gloves",
-    "price": "392.79",
-    "category": "Grocery",
-    "description": "Ergonomic Car made with Granite for all-day blushing support"
-  },
-  {
-    "name": "Ergonomic Marble Shirt",
-    "price": "972.59",
-    "category": "Movies",
-    "description": "New Bike model with 54 GB RAM, 346 GB storage, and enraged features"
-  },
-  {
-    "name": "Fresh Ceramic Car",
-    "price": "999.75",
-    "category": "Outdoors",
-    "description": "Savor the crispy essence in our Gloves, designed for fluffy culinary adventures"
-  },
-  {
-    "name": "Generic Marble Tuna",
-    "price": "129.85",
-    "category": "Music",
-    "description": "New olive Chips with ergonomic design for delicious comfort"
-  },
-  {
-    "name": "Licensed Ceramic Ball",
-    "price": "903.69",
-    "category": "Movies",
-    "description": "Savor the sweet essence in our Gloves, designed for close culinary adventures"
-  },
-  {
-    "name": "Fantastic Bronze Ball",
-    "price": "597.55",
-    "category": "Kids",
-    "description": "Innovative Salad featuring silver technology and Concrete construction"
-  },
-  {
-    "name": "Modern Ceramic Soap",
-    "price": "513.97",
+    "price": "232.59",
     "category": "Tools",
-    "description": "Intelligent Cheese designed with Bamboo for untried performance"
+    "description": "Roob Group's most advanced Mouse technology increases secret capabilities"
   },
   {
-    "name": "Elegant Aluminum Fish",
-    "price": "860.39",
-    "category": "Kids",
-    "description": "Featuring Lawrencium-enhanced technology, our Salad offers unparalleled willing performance"
+    "name": "Incredible Aluminum Towels",
+    "price": "277.69",
+    "category": "Clothing",
+    "description": "Our rich-inspired Pizza brings a taste of luxury to your curly lifestyle"
   },
   {
-    "name": "Tasty Marble Chicken",
-    "price": "697.85",
-    "category": "Beauty",
-    "description": "The grey Ball combines Tanzania aesthetics with Caesium-based durability"
+    "name": "Fantastic Metal Bacon",
+    "price": "228.60",
+    "category": "Baby",
+    "description": "Stylish Bacon designed to make you stand out with defenseless looks"
   },
   {
-    "name": "Small Bronze Chair",
-    "price": "256.09",
-    "category": "Health",
-    "description": "Savor the spicy essence in our Shirt, designed for frizzy culinary adventures"
+    "name": "Intelligent Metal Soap",
+    "price": "458.99",
+    "category": "Books",
+    "description": "Stylish Shirt designed to make you stand out with our looks"
   },
   {
-    "name": "Incredible Concrete Sausages",
-    "price": "720.25",
-    "category": "Beauty",
-    "description": "Cremin Group's most advanced Towels technology increases deserted capabilities"
+    "name": "Gorgeous Concrete Chips",
+    "price": "579.39",
+    "category": "Computers",
+    "description": "Professional-grade Ball perfect for remarkable training and recreational use"
   },
   {
-    "name": "Intelligent Metal Tuna",
-    "price": "182.89",
-    "category": "Movies",
-    "description": "Featuring Livermorium-enhanced technology, our Cheese offers unparalleled petty performance"
-  },
-  {
-    "name": "Luxurious Silk Chicken",
-    "price": "588.89",
-    "category": "Beauty",
-    "description": "Licensed Keyboard designed with Concrete for shallow performance"
-  },
-  {
-    "name": "Rustic Gold Chips",
+    "name": "Incredible Marble Chair",
     "price": "536.25",
-    "category": "Grocery",
-    "description": "The mint green Sausages combines Guinea aesthetics with Selenium-based durability"
-  },
-  {
-    "name": "Handmade Gold Computer",
-    "price": "790.05",
     "category": "Automotive",
-    "description": "Professional-grade Fish perfect for aggravating training and recreational use"
+    "description": "Professional-grade Keyboard perfect for vivid training and recreational use"
   },
   {
-    "name": "Intelligent Bronze Chicken",
-    "price": "613.09",
-    "category": "Toys",
-    "description": "The Rudy Mouse is the latest in a series of afraid products from Dietrich - Dickinson"
+    "name": "Handmade Marble Towels",
+    "price": "222.09",
+    "category": "Home",
+    "description": "Stylish Chair designed to make you stand out with glorious looks"
   },
   {
-    "name": "Elegant Steel Gloves",
-    "price": "434.19",
-    "category": "Outdoors",
-    "description": "The Fatima Soap is the latest in a series of negative products from Mitchell - Will"
+    "name": "Handmade Marble Tuna",
+    "price": "544.55",
+    "category": "Grocery",
+    "description": "The Proactive empowering application Soap offers reliable performance and unique design"
   },
   {
-    "name": "Fantastic Metal Chair",
-    "price": "995.09",
-    "category": "Sports",
-    "description": "Discover the hippopotamus-like agility of our Computer, perfect for sandy users"
+    "name": "Handmade Rubber Hat",
+    "price": "723.25",
+    "category": "Tools",
+    "description": "Discover the tall new Bike with an exciting mix of Metal ingredients"
   },
   {
-    "name": "Unbranded Concrete Sausages",
-    "price": "704.05",
-    "category": "Electronics",
-    "description": "The User-centric national help-desk Pants offers reliable performance and insignificant design"
+    "name": "Handcrafted Aluminum Soap",
+    "price": "826.59",
+    "category": "Games",
+    "description": "New Ball model with 79 GB RAM, 711 GB storage, and exhausted features"
+  },
+  {
+    "name": "Sleek Bronze Bike",
+    "price": "726.39",
+    "category": "Health",
+    "description": "Ergonomic Shoes made with Aluminum for all-day extra-large support"
+  },
+  {
+    "name": "Refined Granite Bike",
+    "price": "522.59",
+    "category": "Kids",
+    "description": "The yellow Table combines Lithuania aesthetics with Platinum-based durability"
+  },
+  {
+    "name": "Bespoke Ceramic Pizza",
+    "price": "971.79",
+    "category": "Games",
+    "description": "Experience the maroon brilliance of our Chair, perfect for crowded environments"
+  },
+  {
+    "name": "Sleek Concrete Pants",
+    "price": "557.19",
+    "category": "Grocery",
+    "description": "Our hamster-friendly Gloves ensures blond comfort for your pets"
+  },
+  {
+    "name": "Elegant Bronze Shoes",
+    "price": "464.20",
+    "category": "Industrial",
+    "description": "Generic Gloves designed with Marble for dutiful performance"
   }
 ]

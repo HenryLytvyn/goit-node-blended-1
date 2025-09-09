@@ -4,6 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "create-products-files": "node src/scripts/createProductsFiles.js",
     "group-products": "node src/scripts/groupProductsByCategories.js",
     "remove-all": "node src/scripts/removeAllProducts.js",
     "modify-products": "node src/scripts/modifyProducts.js",
